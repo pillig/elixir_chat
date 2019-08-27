@@ -1,5 +1,5 @@
 {application,chat,
-             [{applications,[kernel,stdlib,elixir,logger]},
+             [{applications,[kernel,stdlib,elixir,logger,jason]},
               {description,"chat"},
               {modules,['Elixir.Chat']},
               {registered,[]},
